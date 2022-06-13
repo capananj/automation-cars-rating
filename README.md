@@ -12,3 +12,6 @@ By default, the setting is configured to run test in headless browser. To run in
 1. Open the solution using Visual Studio
 2. Right click on the solution > Build Solution
 3. In the Test Menu, click Run All Tests 
+
+### Test approach and Bug report
+See Test approach and Bug Report.docx
