@@ -14,4 +14,4 @@ By default, the setting is configured to run test in headless browser. To run in
 3. In the Test Menu, click Run All Tests 
 
 ### Test approach and Bug report
-See Test approach and Bug Report.docx
+See `Test approach and Bug Report.docx`
